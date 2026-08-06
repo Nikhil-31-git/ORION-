@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+.venv/
+env/
+bin/
+Include/
+Lib/
+Scripts/
+pyvenv.cfg
+
+# Orion specific
+.orion_backup/
+memory.json
+databases/
+models/
+piper-voices/
+outputs/
+jobs/
+server.log
+*.log
+
+# Generated test/lint outputs
+flake8_core.txt
+pylint_core.txt
+
+# OS generated files
+.DS_Store
+Thumbs.db
