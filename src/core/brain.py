@@ -1,6 +1,4 @@
-
-
-
+# Hi Im Nikhil from Git Hub
 # brain.py
 import threading
 from pathlib import Path
