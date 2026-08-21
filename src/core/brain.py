@@ -3,10 +3,6 @@
 import threading
 from pathlib import Path
 from llama_cpp import Llama
-
-
-
-
 class OrionBrain:
     """
     ORION Brain v3.0
